@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Nice
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hoangkimc93@gmail.com
+👋 Hi, I’m Nice
+
+👀 I’m interested in Web Developement and AI
+
+💞️ I’m looking to collaborate on web based project (especially on TypeScript Framework and Python WSGI)
+
+📫 How to reach me hoangkimc93@gmail.com
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mrdiamond12312&label=Profile%20Views&color=11&pretty=true" />
